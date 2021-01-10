@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ma5tLT+Yaa5Y3VJe3aTI7kSHLbzBXJPDkwd2kC+bXPRV6KY2nrVqY23smv7DVVInZi+OLzB8CEvI/Xa/gjiHOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\RabbitMQ\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

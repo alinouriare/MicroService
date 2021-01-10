@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dal",
+    "\\Domain",
+    "\\EventPublisher",
+    "\\repos",
+    "\\TransactionalEvents",
+    "\\TransactionalEvents\\Common"
+  ],
+  "SelectedNode": "\\Domain\\PersonCreated.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\PoolingPublisher.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\PoolingPublisher.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\ref\PoolingPublisher.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\PoolingPublisher.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\Outbox.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\bin\Debug\net5.0\Outbox.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\ref\PoolingPublisher.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\PoolingPublisher\obj\Debug\net5.0\PoolingPublisher.pdb

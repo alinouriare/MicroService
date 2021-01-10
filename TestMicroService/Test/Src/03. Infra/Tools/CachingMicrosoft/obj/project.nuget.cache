@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LgHgJmgaiwKnryvIp30VktDwR0/PAboWOAn7qKQJSfIL440gM/C5amCKTQjrAj7UioYHkSYJApz9HP7WCp7VCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\CachingMicrosoft\\CachingMicrosoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

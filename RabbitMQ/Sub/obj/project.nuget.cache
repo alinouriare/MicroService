@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W4VM76ZxBxYFSWG+0BFpY8ZkjHItRWVxFROCf6MyBE7dXcnaDbojDuBicXQZWpEZ9VAEIMuuP0hqm2R8Z9BTXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\RabbitMQ\\Sub\\Sub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

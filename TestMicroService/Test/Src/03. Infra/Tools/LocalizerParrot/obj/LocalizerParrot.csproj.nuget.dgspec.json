@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\LocalizerParrot\\LocalizerParrot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\01. Utilities\\Utilitie\\Utilitie.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\01. Utilities\\Utilitie\\Utilitie.csproj",
+        "projectName": "Utilitie",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\01. Utilities\\Utilitie\\Utilitie.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\01. Utilities\\Utilitie\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\LocalizerParrot\\LocalizerParrot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\LocalizerParrot\\LocalizerParrot.csproj",
+        "projectName": "LocalizerParrot",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\LocalizerParrot\\LocalizerParrot.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\LocalizerParrot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\01. Utilities\\Utilitie\\Utilitie.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\01. Utilities\\Utilitie\\Utilitie.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

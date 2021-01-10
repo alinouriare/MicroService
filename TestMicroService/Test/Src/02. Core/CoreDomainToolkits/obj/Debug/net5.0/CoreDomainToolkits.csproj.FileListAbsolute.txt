@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\CoreDomainToolkits.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\CoreDomainToolkits.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\ref\CoreDomainToolkits.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\CoreDomainToolkits.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\ref\CoreDomainToolkits.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomainToolkits\obj\Debug\net5.0\CoreDomainToolkits.csprojAssemblyReference.cache

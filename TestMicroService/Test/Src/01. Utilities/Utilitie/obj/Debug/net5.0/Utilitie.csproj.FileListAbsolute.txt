@@ -1,0 +1,11 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\obj\Debug\net5.0\Utilitie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\obj\Debug\net5.0\Utilitie.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\obj\Debug\net5.0\Utilitie.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\obj\Debug\net5.0\Utilitie.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\bin\Debug\net5.0\Utilitie.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\bin\Debug\net5.0\ref\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\obj\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\obj\Debug\net5.0\ref\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\01. Utilities\Utilitie\obj\Debug\net5.0\Utilitie.pdb

@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\bin\Debug\netcoreapp3.1\Components.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\bin\Debug\netcoreapp3.1\Components.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\bin\Debug\netcoreapp3.1\Components.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\obj\Debug\netcoreapp3.1\Components.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\obj\Debug\netcoreapp3.1\Components.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\obj\Debug\netcoreapp3.1\Components.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\obj\Debug\netcoreapp3.1\Components.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\obj\Debug\netcoreapp3.1\Components.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Components\obj\Debug\netcoreapp3.1\Components.pdb

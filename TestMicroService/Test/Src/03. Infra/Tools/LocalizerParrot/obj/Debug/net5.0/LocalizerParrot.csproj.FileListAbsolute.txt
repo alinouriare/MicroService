@@ -1,0 +1,15 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\bin\Debug\net5.0\LocalizerParrot.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\bin\Debug\net5.0\LocalizerParrot.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\bin\Debug\net5.0\ref\LocalizerParrot.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\bin\Debug\net5.0\LocalizerParrot.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\ref\LocalizerParrot.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizerParrot\obj\Debug\net5.0\LocalizerParrot.pdb

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKXUa07oVZbzLH14rfnVYFMbzivYHAVVZr7vTeBCpZxmQn7h/mDzhmxT3auQ+0JWngBDU24nNMTJQbbzThvcDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\LocalizationsMicrosoft\\LocalizationsMicrosoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.localization.abstractions\\5.0.1\\microsoft.extensions.localization.abstractions.5.0.1.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

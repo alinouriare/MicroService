@@ -1,0 +1,9 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Core\obj\Debug\netcoreapp3.1\Core.pdb

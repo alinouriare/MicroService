@@ -1,0 +1,9 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\obj\Debug\netcoreapp3.1\CoreDomain.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\obj\Debug\netcoreapp3.1\CoreDomain.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\obj\Debug\netcoreapp3.1\CoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\bin\Debug\netcoreapp3.1\CoreDomain.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\bin\Debug\netcoreapp3.1\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\bin\Debug\netcoreapp3.1\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\obj\Debug\netcoreapp3.1\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\obj\Debug\netcoreapp3.1\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\01. Core\CoreDomain\obj\Debug\netcoreapp3.1\CoreDomain.csprojAssemblyReference.cache

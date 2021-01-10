@@ -1,0 +1,14 @@
+C:\Users\alino\source\repos\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+C:\Users\alino\source\repos\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+C:\Users\alino\source\repos\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+C:\Users\alino\source\repos\Dal\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\alino\source\repos\Dal\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\alino\source\repos\Dal\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\alino\source\repos\Dal\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\alino\source\repos\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
+C:\Users\alino\source\repos\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+C:\Users\alino\source\repos\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+C:\Users\alino\source\repos\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CoreCompileInputs.cache
+C:\Users\alino\source\repos\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+C:\Users\alino\source\repos\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+C:\Users\alino\source\repos\Dal\obj\Debug\netcoreapp3.1\Dal.pdb

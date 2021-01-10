@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\MessageBusRabbitMq.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\MessageBusRabbitMq.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\ref\MessageBusRabbitMq.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\MessageBusRabbitMq.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\ref\MessageBusRabbitMq.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Messaging\MessageBusRabbitMq\obj\Debug\net5.0\MessageBusRabbitMq.pdb

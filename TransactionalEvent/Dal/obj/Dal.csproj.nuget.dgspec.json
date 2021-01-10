@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Dal\\Dal.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Dal\\Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Dal\\Dal.csproj",
+        "projectName": "Dal",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Dal\\Dal.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\TransactionalEvents\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\TransactionalEvents\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\TransactionalEvents\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\TransactionalEvents\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\TransactionalEvents\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TransactionalEvent\\TransactionalEvents\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

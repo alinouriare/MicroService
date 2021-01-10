@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\DataSql.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\DataSql.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\ref\DataSql.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\DataSql.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\ref\DataSql.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Data\DataSql\obj\Debug\net5.0\DataSql.pdb

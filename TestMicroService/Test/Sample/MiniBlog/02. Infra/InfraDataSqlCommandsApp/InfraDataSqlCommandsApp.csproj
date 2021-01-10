@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Src\03. Infra\Data\SqlCommands\SqlCommands.csproj" />
+    <ProjectReference Include="..\..\01. Core\CoreDomainApp\CoreDomainApp.csproj" />
+  </ItemGroup>
+
+</Project>

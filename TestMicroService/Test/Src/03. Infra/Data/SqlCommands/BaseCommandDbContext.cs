@@ -1,0 +1,175 @@
+﻿using DataSql.Configurations;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Storage;
+using Outbox;
+using SqlCommands.OutBoxEventItems;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
+using Utilitie.Services.Serializers;
+using Utilitie.Services.Users;
+
+namespace SqlCommands
+{
+    public abstract class BaseCommandDbContext : DbContext
+    {
+        private IDbContextTransaction _transaction;
+
+        public DbSet<OutBoxEventItem> OutBoxEventItems { get; set; }
+
+        public BaseCommandDbContext(DbContextOptions options) : base(options)
+        {
+
+        }
+
+        protected BaseCommandDbContext()
+        {
+        }
+
+        public void BeginTransaction()
+        {
+            _transaction = Database.BeginTransaction();
+        }
+
+        public void RollbackTransaction()
+        {
+            if (_transaction == null)
+            {
+                throw new NullReferenceException("Please call `BeginTransaction()` method first.");
+            }
+            _transaction.Rollback();
+        }
+
+        public void CommitTransaction()
+        {
+            if (_transaction == null)
+            {
+                throw new NullReferenceException("Please call `BeginTransaction()` method first.");
+            }
+            _transaction.Commit();
+        }
+
+        public T GetShadowPropertyValue<T>(object entity, string propertyName) where T : IConvertible
+        {
+            var value = Entry(entity).Property(propertyName).CurrentValue;
+            return value != null
+                ? (T)Convert.ChangeType(value, typeof(T), CultureInfo.InvariantCulture)
+                : default;
+        }
+
+        public object GetShadowPropertyValue(object entity, string propertyName)
+        {
+            return Entry(entity).Property(propertyName).CurrentValue;
+        }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            builder.AddAuditableShadowProperties();
+            builder.AddBusinessId();
+            builder.ApplyConfiguration(new OutBoxEventItemConfig());
+        }
+
+        public override int SaveChanges()
+        {
+            ChangeTracker.DetectChanges();
+            BeforeSaveTriggers();
+            ChangeTracker.AutoDetectChangesEnabled = false;
+            var result = base.SaveChanges();
+            ChangeTracker.AutoDetectChangesEnabled = true;
+            return result;
+        }
+
+        public override Task<int> SaveChangesAsync(
+            bool acceptAllChangesOnSuccess,
+            CancellationToken cancellationToken = default)
+        {
+            ChangeTracker.DetectChanges();
+            BeforeSaveTriggers();
+            ChangeTracker.AutoDetectChangesEnabled = false;
+            var result = base.SaveChangesAsync(acceptAllChangesOnSuccess, cancellationToken);
+            ChangeTracker.AutoDetectChangesEnabled = true;
+            return result;
+        }
+
+        private void BeforeSaveTriggers()
+        {
+            SetShadowProperties();
+            AddOutboxEvetItems();
+        }
+
+        private void AddOutboxEvetItems()
+        {
+            var changedAggregates = ChangeTracker.GetChangedAggregates();
+            var userInfoService = this.GetService<IUserInfoService>();
+            var serializer = this.GetService<IJsonSerializer>();
+            foreach (var aggregate in changedAggregates)
+            {
+                var events = aggregate.GetEvents();
+                foreach (var @event in events)
+                {
+                    OutBoxEventItems.Add(new OutBoxEventItem
+                    {
+                        EventId = Guid.NewGuid(),
+                        AccuredByUserId = userInfoService.UserId().ToString(),
+                        AccuredOn = DateTime.Now,
+                        AggregateId = aggregate.BusinessId.ToString(),
+                        AggregateName = aggregate.GetType().Name,
+                        AggregateTypeName = aggregate.GetType().FullName,
+                        EventName = @event.GetType().Name,
+                        EventTypeName = @event.GetType().FullName,
+                        EventPayload = serializer.Serilize(@event),
+                        IsProcessed = false
+                    });
+                }
+            }
+        }
+
+        private void SetShadowProperties()
+        {
+            var userInfoService = this.GetService<IUserInfoService>();
+            ChangeTracker.SetAuditableEntityPropertyValues(userInfoService);
+        }
+
+        public IEnumerable<string> GetIncludePaths(Type clrEntityType)
+        {
+            var entityType = Model.FindEntityType(clrEntityType);
+            var includedNavigations = new HashSet<INavigation>();
+            var stack = new Stack<IEnumerator<INavigation>>();
+            while (true)
+            {
+                var entityNavigations = new List<INavigation>();
+                foreach (var navigation in entityType.GetNavigations())
+                {
+                    if (includedNavigations.Add(navigation))
+                        entityNavigations.Add(navigation);
+                }
+                if (entityNavigations.Count == 0)
+                {
+                    if (stack.Count > 0)
+                        yield return string.Join(".", stack.Reverse().Select(e => e.Current.Name));
+                }
+                else
+                {
+                    foreach (var navigation in entityNavigations)
+                    {
+                        var inverseNavigation = navigation.Inverse;
+                        if (inverseNavigation != null)
+                            includedNavigations.Add(inverseNavigation);
+                    }
+                    stack.Push(entityNavigations.GetEnumerator());
+                }
+                while (stack.Count > 0 && !stack.Peek().MoveNext())
+                    stack.Pop();
+                if (stack.Count == 0) break;
+                entityType = stack.Peek().Current.TargetEntityType;
+            }
+        }
+    }
+}

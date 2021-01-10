@@ -1,0 +1,8 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\bin\Debug\netcoreapp3.1\Framework.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\bin\Debug\netcoreapp3.1\Framework.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\bin\Debug\netcoreapp3.1\Framework.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\obj\Debug\netcoreapp3.1\Framework.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\obj\Debug\netcoreapp3.1\Framework.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventSourcingCustomer\Framework\obj\Debug\netcoreapp3.1\Framework.pdb

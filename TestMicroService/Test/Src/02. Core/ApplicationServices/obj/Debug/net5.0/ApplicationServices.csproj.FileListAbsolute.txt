@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\ApplicationServices.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\ApplicationServices.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\ref\ApplicationServices.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\ApplicationServices.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\bin\Debug\net5.0\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ref\ApplicationServices.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\ApplicationServices\obj\Debug\net5.0\ApplicationServices.pdb

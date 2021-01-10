@@ -1,0 +1,17 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerDtoes.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerConsoleApp.exe
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerConsoleApp.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerConsoleApp.runtimeconfig.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerConsoleApp.runtimeconfig.dev.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerConsoleApp.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerConsoleApp.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\bin\Debug\netcoreapp3.1\ConsumerDtoes.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerConsoleApp\obj\Debug\netcoreapp3.1\ConsumerConsoleApp.genruntimeconfig.cache

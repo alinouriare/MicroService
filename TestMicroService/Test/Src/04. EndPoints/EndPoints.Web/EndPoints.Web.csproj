@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyModel" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.SqlServer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="5.0.0" />
+    <PackageReference Include="Microsoft.OpenApi" Version="1.2.3" />
+    <PackageReference Include="Scrutor" Version="3.3.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
+    <PackageReference Include="Serilog.Sinks.ElasticSearch" Version="8.4.1" />
+    <PackageReference Include="Serilog.Sinks.Http" Version="7.2.0" />
+    <PackageReference Include="Serilog.Sinks.MongoDB" Version="4.0.0" />
+    <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="5.6.0" />
+    <PackageReference Include="Serilog.Sinks.RabbitMQ" Version="3.0.6" />
+    <PackageReference Include="Serilog.Sinks.Seq" Version="4.0.0" />
+    <PackageReference Include="Serilog.Sinks.Telegram" Version="0.2.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\01. Utilities\Utilitie\Utilitie.csproj" />
+    <ProjectReference Include="..\..\02. Core\ApplicationServices\ApplicationServices.csproj" />
+    <ProjectReference Include="..\..\02. Core\CoreDomainToolkits\CoreDomainToolkits.csproj" />
+    <ProjectReference Include="..\..\02. Core\CoreDomain\CoreDomain.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Data\DataSql\DataSql.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Data\SqlCommands\SqlCommands.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Events\Outbox\Outbox.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Events\PoolingPublisher\PoolingPublisher.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Events\SqlQueries\SqlQueries.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Messaging\IdempotentConsumersStoreSql\IdempotentConsumersStoreSql.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Messaging\IdempotentConsumers\IdempotentConsumers.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Messaging\MessageBusRabbitMq\MessageBusRabbitMq.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Tools\AutoMappers\AutoMappers.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Tools\CachingMicrosoft\CachingMicrosoft.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Tools\LocalizationsMicrosoft\LocalizationsMicrosoft.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Tools\LocalizerParrot\LocalizerParrot.csproj" />
+    <ProjectReference Include="..\..\03. Infra\Tools\SrlzrNewtonSoft\SrlzrNewtonSoft.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\bin\Debug\netcoreapp3.1\EventStoreSqlServer.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\bin\Debug\netcoreapp3.1\EventStoreSqlServer.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\bin\Debug\netcoreapp3.1\EventStoreSqlServer.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\bin\Debug\netcoreapp3.1\Framework.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\bin\Debug\netcoreapp3.1\Framework.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\obj\Debug\netcoreapp3.1\EventStoreSqlServer.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\obj\Debug\netcoreapp3.1\EventStoreSqlServer.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\obj\Debug\netcoreapp3.1\EventStoreSqlServer.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\obj\Debug\netcoreapp3.1\EventStoreSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\obj\Debug\netcoreapp3.1\EventStoreSqlServer.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\obj\Debug\netcoreapp3.1\EventStoreSqlServer.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\EventStoreSqlServer\obj\Debug\netcoreapp3.1\EventStoreSqlServer.pdb

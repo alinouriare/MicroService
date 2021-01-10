@@ -1,0 +1,9 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\obj\Debug\netcoreapp3.1\RabbitmqMessage.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\obj\Debug\netcoreapp3.1\RabbitmqMessage.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\obj\Debug\netcoreapp3.1\RabbitmqMessage.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\obj\Debug\netcoreapp3.1\RabbitmqMessage.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\bin\Debug\netcoreapp3.1\RabbitmqMessage.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\bin\Debug\netcoreapp3.1\RabbitmqMessage.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\bin\Debug\netcoreapp3.1\RabbitmqMessage.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\obj\Debug\netcoreapp3.1\RabbitmqMessage.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\SagaMQ\RabbitmqMessage\obj\Debug\netcoreapp3.1\RabbitmqMessage.pdb

@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\bin\Debug\netcoreapp3.1\RabitMQSaga.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\bin\Debug\netcoreapp3.1\RabitMQSaga.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\bin\Debug\netcoreapp3.1\RabitMQSaga.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\bin\Debug\netcoreapp3.1\RabbitmqMessage.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\bin\Debug\netcoreapp3.1\RabbitmqMessage.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\obj\Debug\netcoreapp3.1\RabitMQSaga.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\obj\Debug\netcoreapp3.1\RabitMQSaga.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\obj\Debug\netcoreapp3.1\RabitMQSaga.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\obj\Debug\netcoreapp3.1\RabitMQSaga.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\obj\Debug\netcoreapp3.1\RabitMQSaga.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\obj\Debug\netcoreapp3.1\RabitMQSaga.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\SagaRabitMQ\RabitMQSaga\obj\Debug\netcoreapp3.1\RabitMQSaga.pdb

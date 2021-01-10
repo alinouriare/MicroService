@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C9O/R2sOuP+5lIBi8YGIbuJpi9kBE5tgbkaYYHLFlzQLCspfAecrib6gh3Mt9E0Ni8sGf0yQY0bagcrZO0T5kA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\EventSourcing\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

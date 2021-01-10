@@ -1,0 +1,9 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\bin\Debug\netstandard2.1\Model.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\bin\Debug\netstandard2.1\Model.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\bin\Debug\netstandard2.1\Model.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\obj\Debug\netstandard2.1\Model.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\obj\Debug\netstandard2.1\Model.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\obj\Debug\netstandard2.1\Model.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\obj\Debug\netstandard2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\obj\Debug\netstandard2.1\Model.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\CircuitBreaker\CB\Model\obj\Debug\netstandard2.1\Model.pdb

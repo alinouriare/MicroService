@@ -1,0 +1,15 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\bin\Debug\net5.0\SrlzrNewtonSoft.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\bin\Debug\net5.0\SrlzrNewtonSoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\bin\Debug\net5.0\ref\SrlzrNewtonSoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\bin\Debug\net5.0\SrlzrNewtonSoft.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\ref\SrlzrNewtonSoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\SrlzrNewtonSoft\obj\Debug\net5.0\SrlzrNewtonSoft.pdb

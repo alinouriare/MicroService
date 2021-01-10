@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\bin\Debug\netcoreapp3.1\CommandSql.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\bin\Debug\netcoreapp3.1\CommandSql.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\bin\Debug\netcoreapp3.1\CommandSql.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\bin\Debug\netcoreapp3.1\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\bin\Debug\netcoreapp3.1\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\obj\Debug\netcoreapp3.1\CommandSql.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\obj\Debug\netcoreapp3.1\CommandSql.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\obj\Debug\netcoreapp3.1\CommandSql.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\obj\Debug\netcoreapp3.1\CommandSql.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\obj\Debug\netcoreapp3.1\CommandSql.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\obj\Debug\netcoreapp3.1\CommandSql.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\src\02. Infra\CommandSql\obj\Debug\netcoreapp3.1\CommandSql.pdb

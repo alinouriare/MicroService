@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Src\02. Core\CoreDomainToolkits\CoreDomainToolkits.csproj" />
+    <ProjectReference Include="..\..\..\..\Src\02. Core\CoreDomain\CoreDomain.csproj" />
+  </ItemGroup>
+
+</Project>

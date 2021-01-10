@@ -1,0 +1,15 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\bin\Debug\net5.0\LocalizationsMicrosoft.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\bin\Debug\net5.0\LocalizationsMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\bin\Debug\net5.0\ref\LocalizationsMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\bin\Debug\net5.0\LocalizationsMicrosoft.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\ref\LocalizationsMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\LocalizationsMicrosoft\obj\Debug\net5.0\LocalizationsMicrosoft.pdb

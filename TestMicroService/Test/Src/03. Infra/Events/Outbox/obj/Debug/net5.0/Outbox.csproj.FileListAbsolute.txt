@@ -1,0 +1,11 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\bin\Debug\net5.0\Outbox.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\bin\Debug\net5.0\Outbox.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\bin\Debug\net5.0\ref\Outbox.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\bin\Debug\net5.0\Outbox.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\obj\Debug\net5.0\Outbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\obj\Debug\net5.0\Outbox.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\obj\Debug\net5.0\Outbox.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\obj\Debug\net5.0\Outbox.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\obj\Debug\net5.0\Outbox.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\obj\Debug\net5.0\ref\Outbox.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Events\Outbox\obj\Debug\net5.0\Outbox.pdb

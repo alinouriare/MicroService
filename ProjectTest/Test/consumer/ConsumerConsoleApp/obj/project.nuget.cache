@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HB6nu49c4MSLFMUhNt7lUT9AOobEdYYFpYTcIKr/fObGvH2yghr7eqlBc993YWKckdIv0bBFxBYJzUOV7oWnaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\ProjectTest\\Test\\consumer\\ConsumerConsoleApp\\ConsumerConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

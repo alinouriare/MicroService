@@ -1,0 +1,16 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\ReceiveMQ.exe
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\ReceiveMQ.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\ReceiveMQ.runtimeconfig.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\ReceiveMQ.runtimeconfig.dev.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\ReceiveMQ.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\ReceiveMQ.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\ReceiveMQ\obj\Debug\netcoreapp3.1\ReceiveMQ.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\alino\source\repos\TransactionalEvents\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\alino\source\repos\TransactionalEvents\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\alino\source\repos\TransactionalEvents\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\alino\source\repos\TransactionalEvents\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\alino\source\repos\TransactionalEvents\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\alino\source\repos\TransactionalEvents\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\alino\source\repos\TransactionalEvents\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\alino\source\repos\TransactionalEvents\Common\obj\Debug\netcoreapp3.1\Common.pdb

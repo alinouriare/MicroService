@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRxrLz1UNLLCxcTJDZY2rEddr6Q1ggQIR2e+WMfN3nXXHPtZDx1i3RiA5dTDxvPMFanWMRMhPMht+BcJwYJ7wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alino\\OneDrive\\Desktop\\MicoroService\\TestMicroService\\Test\\Src\\03. Infra\\Tools\\SrlzrNewtonSoft\\SrlzrNewtonSoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alino\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\alino\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

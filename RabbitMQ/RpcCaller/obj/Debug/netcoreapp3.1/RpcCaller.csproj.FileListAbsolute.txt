@@ -1,0 +1,16 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\RpcCaller.exe
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\RpcCaller.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\RpcCaller.runtimeconfig.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\RpcCaller.runtimeconfig.dev.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\RpcCaller.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\RpcCaller.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\RpcCaller\obj\Debug\netcoreapp3.1\RpcCaller.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\bin\Debug\netcoreapp3.1\ConsumerDtoes.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\bin\Debug\netcoreapp3.1\ConsumerDtoes.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\bin\Debug\netcoreapp3.1\ConsumerDtoes.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\obj\Debug\netcoreapp3.1\ConsumerDtoes.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\obj\Debug\netcoreapp3.1\ConsumerDtoes.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\obj\Debug\netcoreapp3.1\ConsumerDtoes.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\obj\Debug\netcoreapp3.1\ConsumerDtoes.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\ProjectTest\Test\consumer\ConsumerDtoes\obj\Debug\netcoreapp3.1\ConsumerDtoes.pdb

@@ -1,0 +1,12 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\bin\Debug\netcoreapp3.1\Framework.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\bin\Debug\netcoreapp3.1\Framework.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\EventSourcing\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

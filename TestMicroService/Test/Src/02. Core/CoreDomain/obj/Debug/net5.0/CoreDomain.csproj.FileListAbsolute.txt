@@ -1,0 +1,15 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\bin\Debug\net5.0\CoreDomain.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\bin\Debug\net5.0\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\bin\Debug\net5.0\ref\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\bin\Debug\net5.0\CoreDomain.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\ref\CoreDomain.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\02. Core\CoreDomain\obj\Debug\net5.0\CoreDomain.pdb

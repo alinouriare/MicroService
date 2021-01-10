@@ -1,0 +1,9 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\RabbitMQ\Mass\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\bin\Debug\net5.0\CachingMicrosoft.deps.json
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\bin\Debug\net5.0\CachingMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\bin\Debug\net5.0\ref\CachingMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\bin\Debug\net5.0\CachingMicrosoft.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\bin\Debug\net5.0\Utilitie.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\bin\Debug\net5.0\Utilitie.pdb
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.csproj.CoreCompileInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.csproj.CopyComplete
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\ref\CachingMicrosoft.dll
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Test\Src\03. Infra\Tools\CachingMicrosoft\obj\Debug\net5.0\CachingMicrosoft.pdb

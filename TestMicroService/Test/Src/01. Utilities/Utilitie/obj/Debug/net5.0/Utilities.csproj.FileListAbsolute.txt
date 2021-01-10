@@ -1,0 +1,5 @@
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Utilities\obj\Debug\net5.0\Utilities.csprojAssemblyReference.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+C:\Users\alino\OneDrive\Desktop\MicoroService\TestMicroService\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
